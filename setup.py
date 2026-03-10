@@ -1,9 +1,9 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="notify",
+    name="tikcheck",
     version="1.0.0",
-    description="Simple Termux notification library",
+    description="Simple",
     author="Inferno-God1001",
     packages=find_packages(),
     install_requires=[],
