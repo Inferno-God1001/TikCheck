@@ -1,1 +1,1 @@
-
+from .tikcheck import *
